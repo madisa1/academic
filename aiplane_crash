@@ -1,2 +1,9 @@
 This project is part of the Advanced R course using R language and Shiny package to analyze airplane crash data.
 We have utilized the advanced and very elegant visualization capabilities of the Shiny package to build an interactive application that allows for multiple graphics and dynamic charts, giving an adjustable and user-friendly tool to understand and analyze our data. 
+
+
+Application link: 
+https://safamediouni.shinyapps.io/planecrash/
+
+Rshiny code:
+The project source code will be uploaded as soon as possible!
